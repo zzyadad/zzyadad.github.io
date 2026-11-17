@@ -42,10 +42,10 @@ Official guide: https://docs.github.com/en/pages/quickstart
 - The role is **Graduate Student**, with graduate education from **2024 to present**. The owner confirmed Professor Guohua Lv as the advisor and M.S. in Computer Technology as the graduate program. No department or earlier education was inferred. The education period, 2024–Present, is italicized, and the official university emblem appears before the education entry. The redundant role/date subtitle was removed from the profile.
 - News dates use publication months and are sorted newest first: TCSVT 2026.09, ICME 2026.06 (owner-supplied), ICASSP 2026.05, PRCV 2026.01, and ICASSP 2025.04. The IEEE dates are formal issue/proceedings dates, not first-online or acceptance dates.
 - The October scholarship year is interpreted as **2026** from the conversation date.
-- Journal/conference type and CCF grades are shown for all six papers. Conferences do not have Journal Impact Factors.
+- Journal/conference type is shown for all six papers. HPHF-MMDet uses a CAS Zone 1 badge; the conference papers use CCF grades. Conferences do not have Journal Impact Factors.
 - TCSVT is marked **JIF 10.8 (2025)**, based on the IEEE September 2026 title list. The table states that the 2025 JCR study was released in June 2026.
 - CCF: TCSVT, ICME and ICASSP are B; PRCV is C. These grades follow the accessible official category list. No claim is made that a final seventh-edition PDF was inspected.
-- No CAS division was inferred from JCR Q1. CCF grades are used for the requested classification badges.
+- HPHF-MMDet is labeled **CAS Zone 1**, as requested by the owner and supported by a CAS Shanghai Branch report published on 12 November 2025. The report explicitly describes TCSVT as a CAS Zone 1 journal; it does not identify a classification-table edition or a TOP designation. No CAS division was inferred from JCR Q1.
 - Equal-contribution marks for HPHF-MMDet and MDPF-Net follow the explicit statements in their manuscripts.
 - PRCV is labeled by its conference year, **2025**; Springer lists its online publication date as 13 January 2026.
 - The portrait and five framework figures are the exact owner-supplied images. The owner confirmed replacing the PRCV image with Fig. 2 from the authors' public manuscript. Original paper files were left unchanged.
@@ -58,6 +58,7 @@ Official guide: https://docs.github.com/en/pages/quickstart
 - Scholar: https://scholar.google.com.hk/citations?user=Dr9ZS2wAAAAJ&hl=en
 - University visual identity: https://www.qlu.edu.cn/_t2039/bsxt/list.htm
 - CCF category list: https://www.ccf.org.cn/Academic_Evaluation/CGAndMT/
+- CAS journal classification source: https://shb.cas.cn/kydt2024/kjjz2024/202511/t20251114_8012306.html
 - IEEE title list: https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf
 - HPHF-MMDet: https://github.com/zzyadad/HPHF-MMDet
 - MDSF-Det: https://github.com/zzyadad/MDSF-Det-2025

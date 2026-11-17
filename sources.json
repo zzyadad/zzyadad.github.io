@@ -1,5 +1,14 @@
 {
-  "verified_on": "2026-11-16",
+  "verified_on": "2026-11-17",
+  "cas_journal_classification": {
+    "journal": "TCSVT",
+    "zone": 1,
+    "display_label": "CAS Zone 1",
+    "source": "https://shb.cas.cn/kydt2024/kjjz2024/202511/t20251114_8012306.html",
+    "source_publication_date": "2025-11-12",
+    "basis": "CAS Shanghai Branch report explicitly identifies TCSVT as a CAS Zone 1 journal. The owner requested this badge instead of CCF B for HPHF-MMDet.",
+    "edition_note": "The report does not identify a classification-table edition or a TOP designation."
+  },
   "ccf": {
     "source": "https://www.ccf.org.cn/Academic_Evaluation/CGAndMT/",
     "TCSVT": "B",
