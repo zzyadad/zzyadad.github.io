@@ -1,0 +1,80 @@
+{
+  "verified_on": "2026-11-16",
+  "ccf": {
+    "source": "https://www.ccf.org.cn/Academic_Evaluation/CGAndMT/",
+    "TCSVT": "B",
+    "ICME": "B",
+    "ICASSP": "B",
+    "PRCV": "C"
+  },
+  "journal_impact_factor": {
+    "journal": "TCSVT",
+    "value": 10.8,
+    "metric_year": 2025,
+    "jcr_release": "June 2026",
+    "source_edition": "September 2026",
+    "source": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+  },
+  "university_emblem": {
+    "official_page": "https://www.qlu.edu.cn/_t2039/bsxt/list.htm",
+    "asset": "https://www.qlu.edu.cn/_upload/article/images/92/4e/a8f4f0e64ae0b06170d01a7347d9/d3aec1e3-5717-448d-bb9f-02a7f95d366b.png"
+  },
+  "scholarships": {
+    "date": "2026-10",
+    "source": "Supplied by the site owner in this conversation"
+  },
+  "notes": [
+    "CCF classifications follow the accessible official category list; no final seventh-edition PDF claim is made.",
+    "Journal Impact Factors apply to journals, not conference papers.",
+    "JCR quartiles are not used as CAS divisions. No edition-specific CAS or TOP claim is made.",
+    "Scholarship year is interpreted as October 2026 from the current conversation date."
+  ],
+  "publication_dates": {
+    "HPHF-MMDet": {
+      "date": "2026-09",
+      "basis": "Formal issue publication; IEEE Crossref published-print, volume 36, issue 9. Not first-online date.",
+      "source": "https://api.crossref.org/works/10.1109/TCSVT.2026.3701598"
+    },
+    "MDPF-Net": {
+      "date": "2026-06",
+      "basis": "Month supplied by the site owner in this conversation; not independently verified against a public publisher record."
+    },
+    "MDSF-Det": {
+      "date": "2026-05-03",
+      "basis": "Proceedings publication; IEEE Crossref published-print.",
+      "source": "https://api.crossref.org/works/10.1109/ICASSP55912.2026.11462879"
+    },
+    "EGMR-YOLO": {
+      "date": "2026-05-03",
+      "basis": "Proceedings publication; IEEE Crossref published-print.",
+      "source": "https://api.crossref.org/works/10.1109/ICASSP55912.2026.11464766"
+    },
+    "UMS-CoSOD": {
+      "date": "2026-01-13",
+      "basis": "Springer First Online / Published. Conference year remains PRCV 2025.",
+      "source": "https://link.springer.com/chapter/10.1007/978-981-95-5755-4_30"
+    },
+    "Comprehensive Feature Processing": {
+      "date": "2025-04-06",
+      "basis": "Proceedings publication; IEEE Crossref published-print.",
+      "source": "https://api.crossref.org/works/10.1109/ICASSP49660.2025.10888968"
+    }
+  },
+  "news_date_basis": "Paper announcements use formal issue/proceedings publication dates, or publisher First Online where explicitly provided. MDPF-Net month supplied by owner. These are not acceptance dates.",
+  "profile": {
+    "advisor": "Professor Guohua Lv",
+    "research_interest": "Object Detection",
+    "source": "Supplied by the site owner in this conversation",
+    "style": "First-person English introduction requested by the owner; degree, program, and advisor title confirmed by the owner.",
+    "advisor_title": "Professor",
+    "degree": "M.S.",
+    "program": "Computer Technology",
+    "education_period": "2024–Present"
+  },
+  "icassp_2025_framework": {
+    "asset": "assets/images/icassp-2025-framework.png",
+    "source": "Owner-provided FPM/CFE/FEM/ALM image, confirmed by the owner as this ICASSP 2025 framework in this conversation.",
+    "verification": "Owner identification; publisher PDF was unavailable for independent comparison. Original supplied image copied unchanged.",
+    "sha256": "b5b8efe4849b2eba6fa104121571edf9f78349f958c297d71d95203c9542e450"
+  }
+}
